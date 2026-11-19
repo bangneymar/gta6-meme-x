@@ -23,8 +23,13 @@ is. Likes and reposts never count.
 ## The post
 
 Posted from [@Bangneymarnih](https://x.com/Bangneymarnih) on X — see
-[POST.json](POST.json) for the post's address. The post's text carries
-make.fun, a tag of @makefunai, the bounty link and the entrant's play code,
+[POST.json](POST.json) for the post's address, and the live post here:
+
+```
+https://x.com/Bangneymarnih/status/2123432763693183169
+```
+
+The post's text carries make.fun, a tag of @makefunai, the bounty link and the entrant's play code,
 and tells readers that people and their AI agents earn real money on make.fun.
 
 ## Run it
